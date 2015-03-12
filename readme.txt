@@ -6,3 +6,6 @@ Creating a new branch is quick and simple.
 Add merge
 Hello world
 git remote add origin git@github.com:panlz/learngit.git
+git add readme.txt
+git commit -m "ddd"
+
