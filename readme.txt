@@ -10,4 +10,4 @@ git add readme.txt
 git commit -m "ddd"
 git checkout -b dev.
 Creating a new branch is quick & simple.
-
+git log --graph --pretty=oneline --abrev-commit
