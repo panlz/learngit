@@ -13,3 +13,4 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick & simple.
 git log --graph --pretty=oneline --abrev-commit
 git reset -- hard HEAT^
+git version
