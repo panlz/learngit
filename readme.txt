@@ -14,3 +14,5 @@ Creating a new branch is quick & simple.
 git log --graph --pretty=oneline --abrev-commit
 git reset -- hard HEAT^
 git version
+git path to my workspace demo
+git is free software. 
