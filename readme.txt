@@ -14,3 +14,5 @@ Creating a new branch is quick & simple.
 git log --graph --pretty=oneline --abrev-commit
 git reset -- hard HEAT^
 git version
+git config --unset --global user.name
+git config --unset --global user.email
