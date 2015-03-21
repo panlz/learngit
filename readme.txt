@@ -17,3 +17,4 @@ git version
 git path to my workspace demo
 git is free software. 
 git log --pretty=oneline
+git diff --cached
