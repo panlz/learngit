@@ -16,3 +16,11 @@ git reset -- hard HEAT^
 git version
 git config --unset --global user.name
 git config --unset --global user.email
+git path to my workspace demo
+git is free software. 
+git log --pretty=oneline
+git diff --cached
+
+
+
+>>>>>>> dev
